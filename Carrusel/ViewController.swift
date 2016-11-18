@@ -19,6 +19,9 @@ class ViewController: UIViewController, iCarouselDelegate,iCarouselDataSource {
        //7 cambiar muchas cosas
         
         // comentarios hasta quye salgan
+        
+        // rmfkmttpvpcmromcrmvl
+        
         image = [1,2,3,4,5]
 
     }
