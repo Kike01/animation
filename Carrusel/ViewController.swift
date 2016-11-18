@@ -16,7 +16,7 @@ class ViewController: UIViewController, iCarouselDelegate,iCarouselDataSource {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        /7 cambiar muchas cosas
+       //7 cambiar muchas cosas
         
         image = [1,2,3,4,5]
 
