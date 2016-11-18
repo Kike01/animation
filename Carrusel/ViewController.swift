@@ -34,6 +34,7 @@ class ViewController: UIViewController, iCarouselDelegate,iCarouselDataSource {
         return image.count
     }
     
+    // aumento de tamaño de image
     func carousel(_ carousel: iCarousel, viewForItemAt index: Int, reusing view: UIView?) -> UIView {
         let tempView = UIView(frame: CGRect(x: 0, y: 0, width: 130, height: 130))
         
