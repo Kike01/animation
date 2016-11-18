@@ -18,6 +18,7 @@ class ViewController: UIViewController, iCarouselDelegate,iCarouselDataSource {
         super.awakeFromNib()
        //7 cambiar muchas cosas
         
+        // comentarios hasta quye salgan
         image = [1,2,3,4,5]
 
     }
